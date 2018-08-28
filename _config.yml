@@ -30,7 +30,7 @@ parallax_image_two: assets/images/startup3.jpg
 
 # Settings for the porfolio section
 
-portfolio_heading: Portfolio
+portfolio_heading: Arsenal
 portfolio_type: cards #cards or carousel
 
 project_one: "First Project"
@@ -81,6 +81,8 @@ skills:
   - name: ssh
   - name: ubuntu
   - name: vim
+  - name: bash
+    uri: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/216px-Gnu-bash-logo.svg.png
   - name: vagrant
     uri: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vagrant.png/150px-Vagrant.png
 
