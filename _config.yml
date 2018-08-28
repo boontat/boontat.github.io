@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:  Showcase
+title: Showcase
 email: monkpuah123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Show case of what i know about programming
+  Nothing much so far
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "boontat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github: https://github.com/boontat
 
-display_footer: none  #change this to 'none' if you want to hide the footer copyright text
+display_footer: initial  #change this to 'none' if you want to hide the footer copyright text
 
 theme: jekyll-material-theme
 
