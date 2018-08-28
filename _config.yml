@@ -16,7 +16,7 @@
 title: Showcase
 email: monkpuah123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Nothing much so far
+  Work in progress ....
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "boontat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github: https://github.com/boontat
@@ -60,7 +60,6 @@ skills:
   - name: backbonejs
   - name: bitbucket
   - name: bootstrap
-  - name: bower
   - name: codeigniter
   - name: docker
   - name: git
@@ -76,8 +75,6 @@ skills:
   - name: nginx
   - name: nodejs
   - name: php
-  - name: python
-  - name: ruby
   - name: ssh
   - name: ubuntu
   - name: vim
