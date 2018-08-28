@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Boon Tat Showcase
+title:  Showcase
 email: monkpuah123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Show case of what i know about programming
@@ -79,12 +79,10 @@ skills:
   - name: python
   - name: ruby
   - name: ssh
-  - name: trello
   - name: ubuntu
   - name: vim
-  - name: nano
   - name: vagrant
-    uri: https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Ansible_logo.png/220px-Ansible_logo.png # Add external icon, for internal icon use uri: /assets/my_icon.jpg
+    uri: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vagrant.png/150px-Vagrant.png
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
