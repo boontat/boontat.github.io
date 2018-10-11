@@ -56,32 +56,26 @@ project_four_icon: restaurant
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
-  - name: apache
-  - name: backbonejs
-  - name: bitbucket
   - name: bootstrap
   - name: codeigniter
-  - name: docker
-  - name: git
-  - name: github
-  - name: gitlab
-  - name: grunt
+  - name: laravel
+  - name: expressjs
   - name: html
   - name: javascript
-  - name: laravel
-  - name: linux
-  - name: mocha
-  - name: mysql
-  - name: nginx
+  - name: css
   - name: nodejs
   - name: php
-  - name: ssh
+  - name: git
+  - name: mysql
+  - name: nginx
   - name: ubuntu
+  - name: centos
   - name: vim
   - name: bash
     uri: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/216px-Gnu-bash-logo.svg.png
   - name: vagrant
     uri: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vagrant.png/150px-Vagrant.png
+  - name: docker
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
