@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Showcase
+title: About Me
 email: monkpuah123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I don't have good algorithm skill, but i like to use programming to solve problem.
@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "boontat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github: https://github.com/boontat
 
-display_footer: initial  #change this to 'none' if you want to hide the footer copyright text
+display_footer: none  #change this to 'none' if you want to hide the footer copyright text
 
 # theme: jekyll-material-theme
 
@@ -31,10 +31,10 @@ parallax_image_two: assets/images/startup3.jpg
 
 # Settings for the porfolio section
 
-portfolio_heading: Arsenal
+portfolio_heading: Projects
 portfolio_type: cards #cards or carousel
 
-project_one: "First Project"
+project_one: ""
 project_one_description: Describe your project!
 project_one_url:
 project_one_icon: location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
@@ -48,11 +48,6 @@ project_three: Third Project
 project_three_description: Describe your project!
 project_three_url:
 project_three_icon: hotel
-
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url:
-project_four_icon: restaurant
 
 # Skill icons from https://konpa.github.io/devicon/
 
