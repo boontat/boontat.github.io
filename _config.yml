@@ -35,20 +35,15 @@ parallax_image_two: assets/images/startup3.jpg
 portfolio_heading: Projects
 portfolio_type: cards #cards or carousel
 
-project_one: ""
-project_one_description: Describe your project!
-project_one_url:
+project_one: With PHP
+project_one_description: -
+project_one_url: -
 project_one_icon: location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
 
-project_two: Second Project
+project_two: With Node
 project_two_description: Describe your project!
 project_two_url:
 project_two_icon: photo_camera
-
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url:
-project_three_icon: hotel
 
 # Skill icons from https://konpa.github.io/devicon/
 
