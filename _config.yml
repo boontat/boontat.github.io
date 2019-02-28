@@ -17,8 +17,8 @@ title: About Me
 email: boontat.puah@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I don't have good algorithm skill, but i like to use programming to solve problem.
-  I like to automate workflow, i think workflow that required many steps should be blackboxed and document down for future reference.
-  Only should remember one liner.
+  I like to automate workflow, i think workflow that required many steps should be blackboxed and documented down for future reference.
+  Should only remember one liner.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "boontat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github: https://github.com/boontat
@@ -34,6 +34,10 @@ parallax_image_two: assets/images/startup3.jpg
 
 portfolio_heading: Projects
 portfolio_type: cards #cards or carousel
+
+projects:
+  - one: ["With PHP", "tool build with php", "www.123.com", "location_on"]
+  - two: ["With NodeJs", "tool build with nodejs", "www.456.com", "photo_camera"]
 
 project_one: With PHP
 project_one_description:
