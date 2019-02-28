@@ -17,7 +17,8 @@ title: About Me
 email: monkpuah123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I don't have good algorithm skill, but i like to use programming to solve problem.
-  I like to automate workflow, i think workflow that required many steps should be blackboxed and document. Only should remember one liner.
+  I like to automate workflow, i think workflow that required many steps should be blackboxed and document down for future reference.
+  Only should remember one liner.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "boontat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github: https://github.com/boontat
